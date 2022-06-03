@@ -1,0 +1,59 @@
+
+SSN.,Employee Name,QTR Wages 
+  333-72-7721,Kirchhoff Mark E,  14.007.38 
+  344-52-5803,Dean  Kenneth L,20.153.44 
+  395-84-8249,Kolhof. Bran K, 15.173.93 
+  461-75-5401,Gruender Robert W, 14.310.03 
+  479-90-3401,Sollazzo Matthew D,28.719.98 
+  480-74-2521,Petersen Thomas F, 14.858.46 
+  486-04-1889,Wehmelr  Gregory B,17354.29 
+  486-06-5846,Chesser Adam  L,11612.23 
+  486-13-1288,Allee Randall C,13625.96 
+  486-15-3829,Wieberg. Joshua T,  9/530.25 
+  486-80-8424,Imhoff. Patrick A, 20950.00 
+  486-84-8003,Oswald. Matthew R, 29.466.69 
+  486-96-1791,Monroe. Daniel A,  22203.10 
+  486-96-6507,Hall Brett D,21390.52 
+  487-06-6489,Dunn  Brandon M,12291.88 
+  487-17-8250,Bryant. Bobby A, 4.450.88 
+  487-82-8323,Reimler Robbie D,  17679.66 
+  488-04-7029,Dean. Lindsey M,22687.21 
+  488-96-5464,Helmericks. Ryan D, 5700.42 
+  488-96-6791,Pace Jerry A,12992.32   
+  488-98-7096,Hawk  Daryl J,  18330.41 
+  489-04-1131,Lehman  Michael K, 16868.87 
+  489-21-3686,Heather Emma  J,  802.26 
+  489-80-7968,Lehman  Kenneth P, 37500.06 
+  489-80-7970,Lehman  Robert A,  33749.97 
+  489-82-3978,Boehlen Kelvin E,  11.752.87 
+  489-92-1245,Jenkins. Shannon C,19.218.31 
+  489-94-4233,Porter. Ryan D, 36350.03 
+  489-94-6712,Wood  Brian D,  16.497.81 
+  490-04-1149,Fisher Christopher T, 18105.77 
+  490-84-1329,Moser Kyle G,15.224.00 
+  490-92-6603,Higgins Devin W,18014.18 
+  491-06-9337,Koestner Cody A,25.661.89 
+  491-15-0586,Lehman  Hannah S,8256.65 
+  491-80-1379,Hopkins. Brent A,  13.618.57 
+  491-88-7667,Nilges Jason T, 21.375.06 
+  491-949-7744,  Tilton. Gabriel R,  2778.29 
+  492-06-9709,Schwering Lucas W, 17.537.45 
+  492-80-9329,Lehman  Jennifer L,13000.00 
+  492-86-5071,Shinn. James D, 23.490.22 
+  492-90-8564,Frank. Shane M, 25.723.17 
+  493-13-9937,Huhmann Grant J, 24.849.14 
+  493-78-4983,Martin. Randall K, 12157.81 
+  493-88-2648,Birdsong. Kurt A,  30259.15 
+  493-94-7189,Kendrick Sharon M,  5223.30 
+  494-82-8825,Dillon. Craig M,17160.46 
+  495-66-7164,Weatherman  Norman  R, 3.600.00 
+  495-70-1931,Shinn. Roger L,  4.480.35 
+  495-70-9029,Kirchhoff. John K, 27150.00 
+  495-70-9614,Hays. Joan M,11902.50 
+  495-82-3545,Menhennet  Austin L,  14122.21 
+  495-82-8194,Wieberg. Jerome R, 24.523.82 
+  496-06-0291,Shinn Ty E,  16.566.80 
+  497-96-0680,Humphrey  Brent L,  4614.10 
+  498-04-1776,Cassil. Tanner A,  12.832.04 
+  498-08-2616,Haslag Cody M,  24121.41 
+  498-08-9486,Tuttle. Brent W,11523.23 

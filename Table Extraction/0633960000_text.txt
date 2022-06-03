@@ -1,0 +1,33 @@
+
+, SSN,NAME,ist Qt Wages 
+,488-50-9942,Laurence E Adams,8794 11 
+,500-94-7833,Penny M,Applegate, 10614 40 
+,476-84-9261,James C Archie, 10762 10 
+,488-66-5044,Kendall D Baker,29900 00 
+,496-76-9813,Natalie L Baker,31200 00 
+,490-02-0196,Ethan L Baldwin,15320 00 
+,494-86-8535,Steve D Brooks, 10338 43 
+,488-78-3573,Robert D Clark,7298 34 
+,499-15-4475,Lane M Compton,6657 00 
+,312-06-5952,David H Fox, 3061 66 
+,497-88-4612,Roger L Gilbert,18700 00 
+,491-44-8741,Billy R Gossett,186 00 
+,429-47-9141,Tony R Graham, 8824 33 
+,604-52-4281,Tyler J Graves,7381 74 
+,488-84-7692,Matthew,F Hogan,1248 08 
+,511-64-8355,Robert D Holmes,11887 18 
+,495-94-6720,Timothy P Hood,9755 56 
+,487-72-3141,Harold G Hunt, 9206 47 
+,512-60-0067,John E Jackson,5765 60 
+,486-62-3559,Bruce W Jeffries,8834 03 
+,499-74-2518,James W,Lage,12033 76 
+,522-81-8171,Jaymie L Ledbetter,3061 66 
+,556-49-0730,Robert L McGinnis Jr,5643 11 
+,492-02-4163,Timothy E Nichols, 9096.40 
+,499-70-3551,Herbert G Scholes,884 87 
+,482-86-2507,Dixie L Sellars, 9409.18 
+,348-58-6832,James E Silkett,12269 16 
+,499-58-4097,Roger M Stanhope,9722 44 
+,499-62-2005,William E Strange, 4396 08 
+,511-78-1330,Donald L Thompson, 9874 76 
+,497-86-1104,Miranda K Underwood,10057.56 
